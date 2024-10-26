@@ -1,6 +1,6 @@
 # Proyecto de Consulta de Películas de Star Wars
 
-Este es un proyecto hecho en **Java** que permite consultar detalles de una película específica de Star Wars utilizando la [Star Wars API (SWAPI)](https://swapi.dev/). El programa realiza una consulta para obtener los detalles de la película número 6, "El Retorno del Jedi".
+Este es un proyecto hecho en **Java** que permite consultar detalles de una película específica de Star Wars utilizando la [Star Wars API (SWAPI)](https://swapi.dev/). El programa realiza una consulta para obtener los detalles de la película número 6(del 1 al 6 ), "El Retorno del Jedi".
 
 ## Funcionalidades
 
